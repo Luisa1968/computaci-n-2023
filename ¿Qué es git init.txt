@@ -1,0 +1,8 @@
+¿Qué es git init?
+El comando git init crea un nuevo repositorio de Git, puede utilizarse para convertir un proyecto existente y sin versión en un repositorio de Git .
+¿Qué es git add?
+El comando git add añade contenido del directorio de trabajo al área de ensayo (staging area o 'index').
+¿Qué es git commit?
+Un comando de atajo que crea inmediatamente una confirmación con un mensaje de confirmación usado. De manera predeterminada, git commit abrirá el editor de texto configurado localmente y solicitará que se introduzca un mensaje de confirmación.
+¿Qué es git push?
+El comando git push sube el contenido de un repositorio local a un repositorio central.
